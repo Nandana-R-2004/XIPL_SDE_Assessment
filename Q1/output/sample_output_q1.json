@@ -1,0 +1,92 @@
+[
+  {
+    "person_image": "person_01.png",
+    "garment_image": "garment_01.jpg",
+    "garment_attributes": {
+      "type": "t-shirt",
+      "sleeve_length": "short",
+      "neckline": "crew",
+      "primary_color": "purple",
+      "pattern": "solid"
+    },
+    "person_attributes": {
+      "pose_category": "front-facing",
+      "upper_body_visible": true,
+      "lower_body_visible": true
+    },
+    "model_used": "MiniCPM-V-2_6-int4",
+    "confidence_notes": "feet not visible, image cropped above the knees | SCHEMA_VALIDATION_FAILED: 5 validation errors for GarmentPersonResult\nperson_attributes.description\n  Field required [type=missing, input_value={'pose_category': 'front-...wer_body_visible': True}, input_type=dict]\n    For further information visit https://errors.pydantic.dev/2.13/v/missing\nperson_attributes.torso_direction\n  Field required [type=missing, input_value={'pose_category': 'front-...wer_body_visible': True}, input_type=dict]\n    For further information visit https://errors.pydantic.dev/2.13/v/missing\nperson_attributes.head_direction\n  Field required [type=missing, input_value={'pose_category': 'front-...wer_body_visible': True}, input_type=dict]\n    For further information visit https://errors.pydantic.dev/2.13/v/missing\nperson_attributes.posture\n  Field required [type=missing, input_value={'pose_category': 'front-...wer_body_visible': True}, input_type=dict]\n    For further information visit https://errors.pydantic.dev/2.13/v/missing\nperson_attributes.visible_parts\n  Field required [type=missing, input_value={'pose_category': 'front-...wer_body_visible': True}, input_type=dict]\n    For further information visit https://errors.pydantic.dev/2.13/v/missing"
+  },
+  {
+    "person_image": "person_02.png",
+    "garment_image": "garment_02.jpg",
+    "garment_attributes": {
+      "type": "blouse",
+      "sleeve_length": "long",
+      "neckline": "turtleneck",
+      "primary_color": "black",
+      "pattern": "floral"
+    },
+    "person_attributes": {
+      "pose_category": "front-facing",
+      "upper_body_visible": true,
+      "lower_body_visible": true
+    },
+    "model_used": "MiniCPM-V-2_6-int4",
+    "confidence_notes": "feet not visible, image cropped above the knees | SCHEMA_VALIDATION_FAILED: 5 validation errors for GarmentPersonResult\nperson_attributes.description\n  Field required [type=missing, input_value={'pose_category': 'front-...wer_body_visible': True}, input_type=dict]\n    For further information visit https://errors.pydantic.dev/2.13/v/missing\nperson_attributes.torso_direction\n  Field required [type=missing, input_value={'pose_category': 'front-...wer_body_visible': True}, input_type=dict]\n    For further information visit https://errors.pydantic.dev/2.13/v/missing\nperson_attributes.head_direction\n  Field required [type=missing, input_value={'pose_category': 'front-...wer_body_visible': True}, input_type=dict]\n    For further information visit https://errors.pydantic.dev/2.13/v/missing\nperson_attributes.posture\n  Field required [type=missing, input_value={'pose_category': 'front-...wer_body_visible': True}, input_type=dict]\n    For further information visit https://errors.pydantic.dev/2.13/v/missing\nperson_attributes.visible_parts\n  Field required [type=missing, input_value={'pose_category': 'front-...wer_body_visible': True}, input_type=dict]\n    For further information visit https://errors.pydantic.dev/2.13/v/missing"
+  },
+  {
+    "person_image": "person_03.png",
+    "garment_image": "garment_03.jpg",
+    "garment_attributes": {
+      "type": "crop top",
+      "sleeve_length": "sleeveless",
+      "neckline": "v-neck",
+      "primary_color": "yellow",
+      "pattern": "solid"
+    },
+    "person_attributes": {
+      "pose_category": "front-facing",
+      "upper_body_visible": true,
+      "lower_body_visible": true
+    },
+    "model_used": "MiniCPM-V-2_6-int4",
+    "confidence_notes": "feet not visible, image cropped above the knees | SCHEMA_VALIDATION_FAILED: 5 validation errors for GarmentPersonResult\nperson_attributes.description\n  Field required [type=missing, input_value={'pose_category': 'front-...wer_body_visible': True}, input_type=dict]\n    For further information visit https://errors.pydantic.dev/2.13/v/missing\nperson_attributes.torso_direction\n  Field required [type=missing, input_value={'pose_category': 'front-...wer_body_visible': True}, input_type=dict]\n    For further information visit https://errors.pydantic.dev/2.13/v/missing\nperson_attributes.head_direction\n  Field required [type=missing, input_value={'pose_category': 'front-...wer_body_visible': True}, input_type=dict]\n    For further information visit https://errors.pydantic.dev/2.13/v/missing\nperson_attributes.posture\n  Field required [type=missing, input_value={'pose_category': 'front-...wer_body_visible': True}, input_type=dict]\n    For further information visit https://errors.pydantic.dev/2.13/v/missing\nperson_attributes.visible_parts\n  Field required [type=missing, input_value={'pose_category': 'front-...wer_body_visible': True}, input_type=dict]\n    For further information visit https://errors.pydantic.dev/2.13/v/missing"
+  },
+  {
+    "person_image": "person_04.png",
+    "garment_image": "garment_04.jpg",
+    "garment_attributes": {
+      "type": "t-shirt",
+      "sleeve_length": "short",
+      "neckline": "crew",
+      "primary_color": "black",
+      "pattern": "graphic print"
+    },
+    "person_attributes": {
+      "pose_category": "front-facing",
+      "upper_body_visible": true,
+      "lower_body_visible": true
+    },
+    "model_used": "MiniCPM-V-2_6-int4",
+    "confidence_notes": "feet not visible, image cropped above the knees | SCHEMA_VALIDATION_FAILED: 5 validation errors for GarmentPersonResult\nperson_attributes.description\n  Field required [type=missing, input_value={'pose_category': 'front-...wer_body_visible': True}, input_type=dict]\n    For further information visit https://errors.pydantic.dev/2.13/v/missing\nperson_attributes.torso_direction\n  Field required [type=missing, input_value={'pose_category': 'front-...wer_body_visible': True}, input_type=dict]\n    For further information visit https://errors.pydantic.dev/2.13/v/missing\nperson_attributes.head_direction\n  Field required [type=missing, input_value={'pose_category': 'front-...wer_body_visible': True}, input_type=dict]\n    For further information visit https://errors.pydantic.dev/2.13/v/missing\nperson_attributes.posture\n  Field required [type=missing, input_value={'pose_category': 'front-...wer_body_visible': True}, input_type=dict]\n    For further information visit https://errors.pydantic.dev/2.13/v/missing\nperson_attributes.visible_parts\n  Field required [type=missing, input_value={'pose_category': 'front-...wer_body_visible': True}, input_type=dict]\n    For further information visit https://errors.pydantic.dev/2.13/v/missing"
+  },
+  {
+    "person_image": "person_05.png",
+    "garment_image": "garment_05.jpg",
+    "garment_attributes": {
+      "type": "t-shirt",
+      "sleeve_length": "short",
+      "neckline": "round",
+      "primary_color": "white",
+      "pattern": "floral"
+    },
+    "person_attributes": {
+      "pose_category": "front-facing",
+      "upper_body_visible": true,
+      "lower_body_visible": true
+    },
+    "model_used": "MiniCPM-V-2_6-int4",
+    "confidence_notes": "feet not visible, image cropped above the knees | SCHEMA_VALIDATION_FAILED: 5 validation errors for GarmentPersonResult\nperson_attributes.description\n  Field required [type=missing, input_value={'pose_category': 'front-...wer_body_visible': True}, input_type=dict]\n    For further information visit https://errors.pydantic.dev/2.13/v/missing\nperson_attributes.torso_direction\n  Field required [type=missing, input_value={'pose_category': 'front-...wer_body_visible': True}, input_type=dict]\n    For further information visit https://errors.pydantic.dev/2.13/v/missing\nperson_attributes.head_direction\n  Field required [type=missing, input_value={'pose_category': 'front-...wer_body_visible': True}, input_type=dict]\n    For further information visit https://errors.pydantic.dev/2.13/v/missing\nperson_attributes.posture\n  Field required [type=missing, input_value={'pose_category': 'front-...wer_body_visible': True}, input_type=dict]\n    For further information visit https://errors.pydantic.dev/2.13/v/missing\nperson_attributes.visible_parts\n  Field required [type=missing, input_value={'pose_category': 'front-...wer_body_visible': True}, input_type=dict]\n    For further information visit https://errors.pydantic.dev/2.13/v/missing"
+  }
+]
