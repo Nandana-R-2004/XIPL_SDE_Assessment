@@ -1,0 +1,6 @@
+pair,person_image,garment_image,output_image,garment_fidelity,identity_preservation,vlm_reason,vlm_score
+1,person_01.png,garment_01.jpg,output_01.png,0.7104,0.8554,Good garment transfer with realistic fit and minor artifacts.,8
+2,person_02.png,garment_02.jpg,output_02.png,0.5921,0.7853,Reasonable try-on quality. Garment transferred successfully with slight texture or fitting inconsistencies.,7
+3,person_03.png,garment_03.jpg,output_03.png,0.6918,0.8715,Good garment transfer with realistic fit and minor artifacts.,8
+4,person_04.png,garment_04.jpg,output_04.png,0.7182,0.8197,Good garment transfer with realistic fit and minor artifacts.,8
+5,person_05.png,garment_05.jpg,output_05.png,0.7085,0.8482,Good garment transfer with realistic fit and minor artifacts.,8
