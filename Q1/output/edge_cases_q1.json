@@ -1,0 +1,32 @@
+[
+  {
+    "person_image": "person_crossed_arms.jpg",
+    "person_attributes": {
+      "pose_category": "seated",
+      "upper_body_visible": true,
+      "lower_body_visible": true
+    },
+    "model_used": "MiniCPM-V-2_6-int4",
+    "confidence_notes": ""
+  },
+  {
+    "person_image": "person_side_pose.jpg",
+    "person_attributes": {
+      "pose_category": "side",
+      "upper_body_visible": true,
+      "lower_body_visible": false
+    },
+    "model_used": "MiniCPM-V-2_6-int4",
+    "confidence_notes": ""
+  },
+  {
+    "person_image": "person_seated.jpg",
+    "person_attributes": {
+      "pose_category": "seated",
+      "upper_body_visible": true,
+      "lower_body_visible": true
+    },
+    "model_used": "MiniCPM-V-2_6-int4",
+    "confidence_notes": ""
+  }
+]

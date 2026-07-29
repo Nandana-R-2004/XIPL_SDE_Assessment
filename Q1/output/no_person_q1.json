@@ -1,0 +1,10 @@
+{
+  "person_image": "no_person.jpg",
+  "person_attributes": {
+    "pose_category": "unknown",
+    "upper_body_visible": false,
+    "lower_body_visible": false
+  },
+  "model_used": "MiniCPM-V-2_6-int4",
+  "confidence_notes": "no person visible in the image"
+}
